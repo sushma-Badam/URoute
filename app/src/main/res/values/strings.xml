@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">URoute</string>
+    <string name="we_route">We Route....!!</string>
+    <string name="your_route">Your Route....!!</string>
+    <string name="UserName">UserName:</string>
+    <string name="mailid">Mail Id:</string>
+    <string name="Password">Password:</string>
+    <string name="NewUser">NewUser?</string>
+    <string name="PhoneNo">Phone No:</string>
+</resources>
